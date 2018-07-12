@@ -1,2 +1,4 @@
 # hello-world
-First Program
+Hi
+
+This is a demo program.
